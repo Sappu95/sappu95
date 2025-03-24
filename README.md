@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm sapna kumari</h1>
 <h3 align="center">I'm a passionate developer with a keen interest in open-source projects and continuous learning. I love exploring new technologies and sharing my knowledge with the community. </h3>
 
-<p align="left"> <img src="sappu95/1682704662248.jpg" alt="sappu95" /> </p>
 
 ## 🔭 I’m currently working on
  **E-commerce website**
